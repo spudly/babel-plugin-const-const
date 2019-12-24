@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-const-const",
+  "name": "@spudly/babel-plugin-const-const",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
